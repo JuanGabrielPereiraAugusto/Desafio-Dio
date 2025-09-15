@@ -6,3 +6,5 @@ let nickname = "juan"
 
 //concatenando variaveis
 console.log("Bem vindo " + nickname)
+
+//var é uma variável global
